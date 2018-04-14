@@ -6,4 +6,4 @@ Music Game
 遊戲設計師: Jackie Lau
 插畫師: Jackie Lau, Derek Leung
 
-Demo: http://mickeyapps.com/game/revive/
+Demo: http://mytest0219.byethost4.com
