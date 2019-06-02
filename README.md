@@ -5,5 +5,3 @@ Music Game
 程式員: Max Tsui
 遊戲設計師: Jackie Lau
 插畫師: Jackie Lau, Derek Leung
-
-Demo: http://mytest0219.byethost4.com
